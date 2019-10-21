@@ -21,26 +21,21 @@ sysinfo.txt
 *.csproj
 *.sln
 *.suo
-# ===================================== #
 *.svd
 *.unityproj
 *.user
 *.userprefs
-/*.csproj
 *.pidb
-*.suo
-/*.sln
-*.user
-*.unityproj
-*.booproj
+.DS_Store
 
-# ============ #
-# OS generated #
-# ============ #
+###
+# OS generated
+###
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
+Icon?
 ehthumbs.db
 Thumbs.db
